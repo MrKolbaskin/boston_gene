@@ -1,5 +1,10 @@
 # test for module resources
 
+"""
+Tests for Resource class
+Command line: python -m pytest tests/unit/test_resources.py
+"""
+
 from app.models import resources
 
 import pytest
